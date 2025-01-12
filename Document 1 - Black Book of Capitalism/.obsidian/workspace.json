@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6f8cf90749fe78dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d81bb122e0806c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a26a22a928d224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USA/USA (1776-P)/CIA/CIA (Overview).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIA (Overview)"
+            }
+          },
+          {
+            "id": "4c7a19460c63b458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Very Notable Individuals/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "77fafb75e1bb54d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4dd4e85000ade5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd665dd2fde57d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b589669dd807de63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2869b3cf6f40df7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fb3e629aba52b49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3dcc92c5058f2fc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 511.5
+  },
+  "right": {
+    "id": "17f073021b3f1978",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce1449158919a75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b04d3c8bf721c881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "02b3fb4dea276ab9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "53b8ed672271d0b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f21dcc786c6844b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c7a19460c63b458",
+  "lastOpenFiles": [
+    "Very Notable Individuals/Adolf Hitler.md",
+    "Very Notable Individuals/Untitled.md",
+    "USA/USA (1776-P)/US Congress/US House (Overview).md",
+    "Very Notable Individuals",
+    "USA/USA (1776-P)/FBI/Individuals",
+    "USA/USA (1776-P)/The Heritage Foundation/Notable Individuals",
+    "USA/USA (1776-P)/Coca-Cola",
+    "USA/USA (1776-P)/US Supreme Court",
+    "USA/USA (1776-P)/The Heritage Foundation/The Heritage Foundation (Overview).md",
+    "USA/USA (1776-P)/US Congress",
+    "USA/USA (1776-P)/US Presidency",
+    "USA/USA (1776-P)/National Endowment for Democracy",
+    "USA/USA (1776-P)/FBI",
+    "USA/USA (1776-P)/CIA",
+    "USA/USA (1776-P)/The Heritage Foundation/Project 2025.md",
+    "USA/USA (1776-P)/CIA/CIA (Overview).md",
+    "USA/USA (1776-P)/The Heritage Foundation/The Mandate For Leadership.md",
+    "USA/USA (1776-P)/FBI/FBI (Overview).md",
+    "USA/USA (1776-P)/National Endowment for Democracy/National Endowment For Democracy (Overview).md",
+    "USA/USA (1776-P)/US Presidency/US Presidency (Overview).md",
+    "USA/USA (1776-P)/US Supreme Court/US Supreme Court (Overview).md",
+    "USA/USA (1776-P)/US Congress/US Senate (Overview).md",
+    "1 Welcome.md"
+  ]
+}

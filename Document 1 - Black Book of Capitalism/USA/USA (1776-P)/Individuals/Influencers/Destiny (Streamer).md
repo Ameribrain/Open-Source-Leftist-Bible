@@ -1,0 +1,4 @@
+Claimed Political Affiliation
+Identified Political Affiliation
+Claimed Political Ideology
+Identified Political Ideology

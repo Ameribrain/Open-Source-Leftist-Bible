@@ -1,0 +1,1 @@
+Founded by Max Levchin, [[Peter Thiel]], and Luke Nosek, later merged with x.com and [[Elon Musk]] then claimed to be a founder
