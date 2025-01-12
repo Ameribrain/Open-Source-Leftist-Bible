@@ -58,7 +58,7 @@ If you only want to read the documents, here's how: (note, one of our core goals
 
 **Before making *any* changes, please carefully read the [Contribution Guidelines](LINK TO CONTRIBUTING.md). They explain how to contribute effectively and ensure your changes are accepted. It is *essential* you read these first.**
 
-If you're ready to contribute: (Note, this is a higher barrier to entry than something like wikipedia, we use this platform for many reasons, most of which involve hosting, however, one bonus is that a slightly higher barrier to entry is helpful in combatting low effort trolls. If you have some experiance with computers this should not be difficult, if you are struggling ask for help in the discord and someone will help you). 
+If you're ready to contribute: (Note, this is a higher barrier to entry than something like wikipedia. If you have some experiance with computers this should not be difficult, if you are struggling ask for help in the discord and someone will help you). 
 
 1.  **Fork the Project on GitHub:**
 
